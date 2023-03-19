@@ -7,6 +7,7 @@ p {
     color: white;
     font-family: Shanti;
     font-size: 1.2em;
+    display: inline-block;
     margin: 20px;
 }
 
@@ -18,7 +19,7 @@ img {
 input {
     width: 300px;
     height: 50px;
-    margin: 20px;
+    margin: 20px 20px;
     border: none;
     border-radius: 10px;
     font-family: Shanti;
@@ -33,6 +34,7 @@ input:focus {
 
 #greet {
     background-color: palevioletred;
+    border: none;
     color: white;
     width: 200px;
 }
